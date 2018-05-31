@@ -1,2 +1,3 @@
 # hello-world
-The repository they told me to make
+ I was born a poor black child (Steve Martin, "The Jerk")
+ I changed my description of this readme file
